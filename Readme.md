@@ -14,7 +14,7 @@ I strive to continuously learn and master advanced technologies, with the goal o
 
 - 📫 How to reach me **badhonsarker38@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
