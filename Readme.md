@@ -23,34 +23,5 @@ I strive to continuously learn and master advanced technologies, with the goal o
  
 
 
-{
-  gson: repository(owner: "google", name: "gson") {
-    ...RepoFragment
-  }
-  martian: repository(owner: "google", name: "martian") {
-    ...RepoFragment
-  }
-  keyboard: repository(owner: "jasonrudolph", name: "keyboard") {
-    ...RepoFragment
-  }
-}
 
-fragment RepoFragment on Repository {
-  name
-  refs(first: 100, refPrefix: "refs/heads/") {
-    edges {
-      node {
-        name
-        target {
-          ... on Commit {
-            id
-            history(first: 0) {
-              totalCount
-            }
-          }
-        }
-      }
-    }
-  }
-}
-
+   ![Generated Image](https://commit-streak.heidenstedt.org/generate?githubUser=https%3A%2F%2Fgithub.com%2FBadhon-Sarker&mode=null&strictness=null&bonusDayEvery=3)
