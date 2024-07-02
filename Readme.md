@@ -29,4 +29,4 @@ I strive to continuously learn and master advanced technologies, with the goal o
 
  <br>
  <br>
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Badhon-Sarker)](https://github.com/Badhon-Sarker/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Badhon-Sarker&layout=donut-vertical)](https://github.com/Badhon-Sarker/github-readme-stats)
