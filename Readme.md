@@ -24,4 +24,17 @@ I strive to continuously learn and master advanced technologies, with the goal o
 
 
 
-   ![Generated Image](https://commit-streak.heidenstedt.org/generate?githubUser=https%3A%2F%2Fgithub.com%2FBadhon-Sarker&mode=null&strictness=null&bonusDayEvery=3)
+   <a href="#">
+  <img align="center" src="https://github-stats-pro.vercel.app/api?username=prabormukherjee&count_private=true&include_all_commits=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="My GitHub stats" />
+</a>
+<a href="#">
+  <img align="center" src="https://github-stats-pro.vercel.app/api/top-langs/?username=prabormukherjee&layout=compact&langs_count=8&hide=jupyter%20notebook,smalltalk,cuda,dockerfile,tsql,makefile&theme=dark" alt="My Lang stats" />
+</a>
+<a href="#">
+  <img align="center" src="https://streak-stats.demolab.com/?user=prabormukherjee&theme=dark&card_width=600" alt="My Streak stats" />
+</a>
+<a href="#">
+  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=prabormukherjee&custom_title=Prabor%27s%20Contribution&theme=react&bg_color=151515&point=ffffff&radius=10" alt="My GitHub stats" />
+</a>
+<br/>
+<br/>
